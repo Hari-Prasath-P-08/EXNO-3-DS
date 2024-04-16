@@ -31,8 +31,44 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
-# RESULT:
-       # INCLUDE YOUR RESULT HERE
 
-       
+Name: Hari Prasath. P
+Reg. No: 212223230070
+
+![Screenshot 2024-04-17 001942](https://github.com/Hari-Prasath-P-08/EXNO-3-DS/assets/139455593/64dc1d7f-02ec-4b57-9da4-06e8f5319f11)
+
+![Screenshot 2024-04-17 002005](https://github.com/Hari-Prasath-P-08/EXNO-3-DS/assets/139455593/d4a05daa-8cf3-4a4d-9d0e-9a7789a71328)
+
+![Screenshot 2024-04-17 002030](https://github.com/Hari-Prasath-P-08/EXNO-3-DS/assets/139455593/5e7e714f-0737-4f62-948b-768f14e8d943)
+
+![Screenshot 2024-04-17 002046](https://github.com/Hari-Prasath-P-08/EXNO-3-DS/assets/139455593/3f0dbae3-6edd-47e9-a1aa-5ca6a380a2f5)
+
+![Screenshot 2024-04-17 002100](https://github.com/Hari-Prasath-P-08/EXNO-3-DS/assets/139455593/461d9285-a3a1-42a6-b301-3f28a2bd2c7a)
+
+![Screenshot 2024-04-17 002115](https://github.com/Hari-Prasath-P-08/EXNO-3-DS/assets/139455593/cfaa70cc-aa70-49f3-8f22-9b1f1d1d8e2d)
+
+![Screenshot 2024-04-17 002131](https://github.com/Hari-Prasath-P-08/EXNO-3-DS/assets/139455593/119803fe-4dcb-4d4b-bf6c-2698dcbc0489)
+
+![Screenshot 2024-04-17 002146](https://github.com/Hari-Prasath-P-08/EXNO-3-DS/assets/139455593/2bf686d1-5f6a-4001-a3ba-b551412ba37b)
+
+![Screenshot 2024-04-17 002201](https://github.com/Hari-Prasath-P-08/EXNO-3-DS/assets/139455593/cf4b099c-24b2-4b0a-859d-5ff33d368b35)
+
+![Screenshot 2024-04-17 002216](https://github.com/Hari-Prasath-P-08/EXNO-3-DS/assets/139455593/e92b7699-bd7d-4920-80d0-57b65b22e93a)
+
+![Screenshot 2024-04-17 002233](https://github.com/Hari-Prasath-P-08/EXNO-3-DS/assets/139455593/7229a2f1-1fe7-4d55-8c0e-cde5a3e111dd)
+
+![Screenshot 2024-04-17 002336](https://github.com/Hari-Prasath-P-08/EXNO-3-DS/assets/139455593/ea93805c-653b-4c05-acf1-79750c9c9940)
+
+![Screenshot 2024-04-17 002357](https://github.com/Hari-Prasath-P-08/EXNO-3-DS/assets/139455593/799e51f2-31ea-4231-b9a6-ad3b338b273b)
+
+![Screenshot 2024-04-17 002410](https://github.com/Hari-Prasath-P-08/EXNO-3-DS/assets/139455593/ff53f15d-75fd-4107-b626-17917167b693)
+
+![Screenshot 2024-04-17 002425](https://github.com/Hari-Prasath-P-08/EXNO-3-DS/assets/139455593/e1559590-4b6e-4676-a75f-cb8fd3707171)
+
+![Screenshot 2024-04-17 002440](https://github.com/Hari-Prasath-P-08/EXNO-3-DS/assets/139455593/14b3944a-7dc4-4ade-bf2c-f0c11e945c1b)
+
+![Screenshot 2024-04-17 002456](https://github.com/Hari-Prasath-P-08/EXNO-3-DS/assets/139455593/efb7c7c4-c9ca-42af-9d96-9d3262b8706d)
+
+# RESULT:
+
+Thus, The programs are executed successfully.
